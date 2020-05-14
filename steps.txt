@@ -14,3 +14,16 @@ python3 manage.py makemigrations polls
 python3 manage.py migrate
 
 
+Make models > makemigrations > migrate
+Add db for admin: <see admin.py>
+
+Templates
+HTTP404 or Object
+Namespacing URL names <skipped>>
+
+
+
+
+	
+
+
